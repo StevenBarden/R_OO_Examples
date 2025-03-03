@@ -1,4 +1,4 @@
-Visualize and Compare Data    
+# Visualize and Compare Data    
 
 LIS4317 - Module # 7 assignment      
 
