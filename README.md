@@ -1,3 +1,13 @@
+Visualize and Compare Data    
+
+LIS4317 - Module # 7 assignment      
+
+https://github.com/StevenBarden/LIS-4370-Visual-Distributions
+
+https://outlync.wordpress.com/2025/03/03/exploring-generic-functions-and-rs-object-oriented-systems/
+
+https://usflearn.instructure.com/courses/1934094/assignments/17630319
+
 # R_OO_Examples
 
 # R Object-Oriented Examples (S3 & S4)
