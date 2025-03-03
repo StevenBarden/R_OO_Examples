@@ -8,9 +8,9 @@ https://outlync.wordpress.com/2025/03/03/exploring-generic-functions-and-rs-obje
 
 https://usflearn.instructure.com/courses/1934094/assignments/17630319
 
-# R_OO_Examples
+R_OO_Examples
 
-# R Object-Oriented Examples (S3 & S4)
+Object-Oriented Examples (S3 & S4)
 
 This repository contains examples of both **S3 and S4 object-oriented programming** in R.  
 The `S3_S4_OOP_examples.R` script demonstrates:  
